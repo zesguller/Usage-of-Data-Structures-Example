@@ -1,0 +1,13 @@
+Path (Prague to London):
+Prague -> London 
+Path Found! 
+Total Distance: 1264 km
+
+Path (London to London): 
+Path Found! 
+Total Distance: 0 km
+
+Path (London to Prague):
+London -> Tokyo-> Jakarta-> Beijing-> NewYork
+Total Distance: -2147452135 km
+
